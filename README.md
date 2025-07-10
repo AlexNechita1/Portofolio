@@ -60,3 +60,12 @@ The app uses local storage for fast access and supports syncing with IMDb data t
 - Android Studio: Development environment
 - IMDb API: External movie metadata
 - Firebase: Data storage
+
+## 🎮 Looping Simulator – 2D Asymmetric Survival Game
+
+**Description:** Looping Simulator is a 2D asymmetric multiplayer-inspired survival game, conceptually similar to Dead by Daylight, but built from the ground up in Visual Basic .NET. The game places one player in the role of the killer, while the other players take on the role of survivors trying to escape. Survivors must evade the killer by navigating the map, hiding, and using "looping" techniques — outsmarting and outmaneuvering the killer in real time.
+
+**Technologies Used:** 
+- Visual Basic .NET: Primary programming language
+- WinForms / GDI+: For rendering and UI management
+- Timers and Game Loops: To manage animations, movement, and collisions
