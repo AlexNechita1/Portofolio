@@ -40,3 +40,23 @@ All services communicate through RESTful APIs and are deployed via Azure Contain
 - Azure Container Apps: Cloud-native hosting and scaling
 - Azure SQL / MSSQL: Cloud-hosted relational database
 - REST API: Service-to-service communication
+
+## 🎬 MovieGram – Social Movie Recommendation App
+
+**Description:** MovieGram is a mobile application that combines movie discovery with social networking — think of it as Instagram for movie enthusiasts. Built in Java using Android Studio, MovieGram allows users to explore personalized movie recommendations and interact with a community of fellow cinephiles.
+Users can:
+- 📽️ Browse a custom movie database, populated via the IMDb API
+- ⭐ Receive smart movie recommendations based on preferences and viewing history
+- 📝 Create reviews and social posts for movies they've watched
+- 👤 Customize their profile with avatars, bios, and favorite genres
+- 🤝 Add friends and view their activity, reviews, and posts
+- 🔍 Use the search function to explore trending or specific titles
+- 🗄️ Enjoy a smooth UX through local database integration and synced API data
+
+The app uses local storage for fast access and supports syncing with IMDb data to ensure users get fresh and accurate content. The goal is to create a scalable and social platform that enhances movie discovery through personalization and community interaction.
+
+**Technologies Used:**
+- Java: Main programming language
+- Android Studio: Development environment
+- IMDb API: External movie metadata
+- Firebase – Data storage
