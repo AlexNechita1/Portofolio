@@ -59,4 +59,4 @@ The app uses local storage for fast access and supports syncing with IMDb data t
 - Java: Main programming language
 - Android Studio: Development environment
 - IMDb API: External movie metadata
-- Firebase – Data storage
+- Firebase: Data storage
