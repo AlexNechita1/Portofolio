@@ -24,13 +24,16 @@ This space showcases a curated collection of my academic, personal, and collabor
 - Matplotlib / Seaborn: For visualizations and metric analysis
 
 ## 💬 MatchMate – Microservices Architecture Web App
+
 **Link to Demo:** https://drive.google.com/file/d/1paA5UbmhD5yNbLDHVljPDgMNWdVDRS-y/view?usp=sharing
+
 **Description:** MatchMate is a microservices-based web application that connects users based on their gaming preferences, availability, and play styles. The platform is designed to deliver a scalable, modular, and cloud-native experience using Microsoft Azure and Docker containers.
 The application is composed of three independent, containerized services:
 - 🧾 User Service: Handles registration, authentication, and user profiles
 - 🎯 Matchmaking Service: Calculates compatibility scores and manages friend requests
 - 💬 Chat Service: Enables real-time messaging, stores feedback and chat history
 All services communicate through RESTful APIs and are deployed via Azure Container Apps. Compatibility is determined by analyzing user interests, gaming behavior, and mutual feedback.
+
 **Technologies & Tools Used:**
 - Node.js & JavaScript: Backend service development
 - Docker: Containerization for modular deployment
